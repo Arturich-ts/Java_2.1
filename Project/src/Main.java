@@ -1,7 +1,7 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         int cost = 5799;
-        float miles = cost / 20F;
+        int miles = cost / 20;
         System.out.println(miles);
     }
 }
